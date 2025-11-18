@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=natsudraggval&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔤 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natsudraggval&layout=compact&langs_count=8&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=natsudraggval&layout=compact&langs_count=8&theme=dark&hide=Hack)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=natsudraggval&icon=0&color=0)](https://visitcount.itsvg.in)
